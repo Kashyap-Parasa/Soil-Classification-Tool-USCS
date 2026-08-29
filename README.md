@@ -2,10 +2,6 @@
 
 A desktop application and dataset for classifying soils according to the **Unified Soil Classification System (USCS)** — built with Python, Tkinter, and Matplotlib. The tool takes standard geotechnical lab inputs (sieve analysis and Atterberg limits) and returns the USCS group symbol, description, and an interactive Casagrande Plasticity Chart.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
 ---
 
@@ -155,22 +151,9 @@ PI≥A-line  PI<A-line PI≥A-line PI<A-line  Fines<5%    5–12%          Fines
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! To contribute:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/gradation-logic`)
-3. Commit your changes
-4. Open a pull request
 
-Please open an issue first for major changes so we can discuss the approach.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
